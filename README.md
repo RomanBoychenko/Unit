@@ -10,7 +10,7 @@
 
 ### Тестировать локально:
 - ```
-  git clone https://github.com/veronica-ivanova/unit
+  git clone https://github.com/RomanBoychenko/Unit
   cd apollo
   ```
 - открыть index.html
